@@ -6,7 +6,7 @@ import webcolors
 from urllib2 import urlopen
 from PIL import Image as Im
 from PIL import ImageChops, ImageDraw
-from colormath.color_objects import RGBColor
+from colormath.color_objects import sRGBColor
 import cStringIO
 import json
 import random
