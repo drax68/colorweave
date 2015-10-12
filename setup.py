@@ -42,7 +42,7 @@ setup(
         "Programming Language :: Python :: 2.7",
     ],
     install_requires=[
-        'Pillow==1.7.8',
+        'Pillow',
         'colormath>=1.0.8',
         'numpy>=1.6.1',
         'webcolors>=1.4',
